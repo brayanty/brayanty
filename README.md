@@ -7,6 +7,9 @@
 
 - 📫 Cómo contactarme **2003brayan2@gmail.com**
 
+##Skills
+*Hablo español xs
+·No Inglesh
 <h3 align="left">Conéctate conmigo:</h3>
 <p align=" izquierda">
 <a href="https://instagram.com/elbrayanp2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/instagram.svg" alt="elbrayanp2003" height="30" width="40" /></a> </p>
