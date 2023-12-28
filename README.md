@@ -1,7 +1,3 @@
-<<h1 align="center">Hola 👋, soy Brayan Palacios</h1>
-<h3 align="center">Un apasionado desarrollador frontend</h3>
-
-- 🌱 Actualmente estoy aprendiendo **diseño con HTML CSS javascript **
 <h1 align="center">Hi 👋, I'm Brayan Palacios</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
