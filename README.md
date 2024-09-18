@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brayan Palacios</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<div align="center">
+   
+   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanty&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
+
 - 🌱 I’m currently learning **layout with HTML CSS javascript**
 
 - 💬 Ask me about **programg..**
