@@ -1,7 +1,7 @@
 [⚠️ Suspicious Content] <h1 align="center">I'm Brayan Palacios</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [inventory manager for technical services](https://github.com/brayanty/inventory-manager)
+- 🔭 Project I'm currently working on ["inventory manager for technical services"](https://github.com/brayanty/inventory-manager)
 
 - 🌱 I’m currently learning **React, NodeJS, Typescript**
 
