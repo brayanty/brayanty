@@ -3,7 +3,7 @@
 
 - 🔭 Project I'm currently working on ["inventory manager for technical services"](https://github.com/brayanty/inventory-manager)
 
-- 🌱 I’m currently learning **React, NodeJS, Typescript ,UX/UI**
+- 🌱 I’m currently learning **React, NodeJS, Typescript, PostgreSQL, UX/UI**
 
 - 👨‍💻 All of my projects are available at [https://zetflix-tech.vercel.app/](https://zetflix-tech.vercel.app/)
 
